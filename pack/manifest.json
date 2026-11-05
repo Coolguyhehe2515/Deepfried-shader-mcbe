@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Deep Fried",
+    "description": "Joke shader",
+    "uuid": "5b0c3d1e-7a42-4f6b-9c1d-2e8f4a6b7c90",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 60]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a3d9e7f2-1b54-4c8a-8e60-9f2b1c4d5e71",
+      "version": [1, 0, 0]
+    }
+  ]
+}
